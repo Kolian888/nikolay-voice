@@ -1,0 +1,1 @@
+// Здесь должен быть скрипт из https://unpkg.com/@elevenlabs/convai-widget-embed
